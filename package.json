@@ -1,0 +1,24 @@
+{
+  "name": "animatojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnassAzeroual/lib-animito.js.git"
+  },
+  "keywords": [
+    "animate",
+    "css",
+    "animation",
+    "animate.css",
+    "animatojs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnassAzeroual/lib-animito.js/issues"
+  },
+  "homepage": "https://github.com/AnassAzeroual/lib-animito.js#readme"
+}
